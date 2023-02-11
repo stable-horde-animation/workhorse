@@ -1,0 +1,6 @@
+[submodule "frame_interpolation"]
+	path = frame_interpolation
+	url = https://github.com/google-research/frame-interpolation
+[submodule "GFPGAN"]
+	path = GFPGAN
+	url = https://github.com/TencentARC/GFPGAN
